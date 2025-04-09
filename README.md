@@ -1,4 +1,5 @@
 # bolt.diy
+<!-- Test comment to verify fork pushing -->
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
 
